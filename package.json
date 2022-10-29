@@ -3,6 +3,13 @@
   "displayName": "The Treeme",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/ijontan/the-treeme"
+  },
+  "author": {
+    "name": "Ijon Tan",
+    "email": "ijontan9@gmail.com"
+  },
   "engines": {
     "vscode": "^1.72.0"
   },
