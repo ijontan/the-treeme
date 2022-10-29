@@ -1,8 +1,8 @@
 {
-  "name": "my-theme",
-  "displayName": "my-theme",
+  "name": "the-treeme",
+  "displayName": "The Treeme",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "my theme",
+        "label": "orange tree",
         "uiTheme": "vs-dark",
         "path": "./themes/my theme-color-theme.json"
       }
