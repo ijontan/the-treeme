@@ -47,12 +47,13 @@
 		"editorBracketMatch.background": "#e0d3b85b",
 		"editorBracketMatch.border": "#00000000",
 		"editorIndentGuide.background": "#363636",
-		"editorBracketHighlight.foreground1": "#5153c4",
-		"editorBracketHighlight.foreground2": "#519ac4",
-		"editorBracketHighlight.foreground3": "#51b7c4",
-		"editorBracketHighlight.foreground4": "#51c0c4",
-		"editorBracketHighlight.foreground5": "#51c4b1",
-		"editorBracketHighlight.foreground6": "#51c481",
+		"editorBracketHighlight.foreground1": "#ffe5c4",
+		"editorBracketHighlight.foreground2": "#4b93ff",
+		"editorBracketHighlight.foreground3": "#54c2c2",
+		"editorBracketHighlight.foreground4": "#4bca8b",
+		"editorBracketHighlight.foreground5": "#7ecf31",
+		"editorBracketHighlight.foreground6": "#d48817",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#d62a30",
 		"errorForeground": "#e72d2d8f",
 		"editorWidget.foreground": "#e0d3b8",
 		"editorWidget.border": "#00000000",
@@ -71,7 +72,10 @@
 		"textLink.foreground": "#ce6c26c5",
 		"textLink.activeForeground": "#ce6c26",
 		"keybindingLabel.foreground": "#ce6c26",
-		"editorWidget.resizeBorder": "#ff0000"
+		"inputValidation.infoBorder": "#e0d3b8",
+		"inputValidation.infoBackground": "#5e402b",
+		"editorHint.foreground": "#C792EA",
+		"editorInlayHint.foreground": "#C792EA"
 	},
 	"tokenColors": [
 		{
