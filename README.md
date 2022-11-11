@@ -10,7 +10,7 @@ It's a collections of themes based on colors of trees!
 - apple tree (dark theme)
 - lemon tree (dark theme)
 - cherry blossom (light theme)
-- cherry blossom in the dark (dark theme)
+- cherry blossom in the night (dark theme)
 
 # notes
 might plan to add more if I got bored with my theme or recieved an interesting idea.
