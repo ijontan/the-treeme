@@ -33,6 +33,11 @@
         "label": "lemon tree",
         "uiTheme": "vs-dark",
         "path": "./themes/lemon tree-color-theme.json"
+      },
+      {
+        "label": "cherry blossom",
+        "uiTheme": "vs",
+        "path": "./themes/cherry blossom-color-theme.json"
       }
     ]
   }
