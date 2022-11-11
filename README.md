@@ -1,6 +1,16 @@
 # The Treeme
 
 Just an effort to customize my vscode in my free time.
-The theme is inspired by "carbon" theme of monkeytype and "monokai pro spectrum".
+The theme is initially inspired by "carbon" theme of monkeytype and "monokai pro spectrum".
 
-Might plan to add other varients like "apple tree" or "coconut tree" or " lemon tree" in the future when I am free.
+It's a collections of themes based on colors of trees!
+
+## themes
+- orange tree (dark theme)
+- apple tree (dark theme)
+- lemon tree (dark theme)
+- cherry blossom (light theme)
+- cherry blossom in the dark (dark theme)
+
+# notes
+might plan to add more if I got bored with my theme or recieved an interesting idea.
