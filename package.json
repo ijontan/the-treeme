@@ -2,7 +2,7 @@
   "name": "the-treeme",
   "displayName": "The Treeme",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "url": "https://github.com/ijontan/the-treeme"
   },
@@ -38,6 +38,11 @@
         "label": "cherry blossom",
         "uiTheme": "vs",
         "path": "./themes/cherry blossom-color-theme.json"
+      },
+      {
+        "label": "cherry blossom in the night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cherry blossom in the night-color-theme.json"
       }
     ]
   }
