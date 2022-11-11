@@ -28,6 +28,11 @@
         "label": "apple tree",
         "uiTheme": "vs-dark",
         "path": "./themes/apple tree-color-theme.json"
+      },
+      {
+        "label": "lemon tree",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lemon tree-color-theme.json"
       }
     ]
   }
