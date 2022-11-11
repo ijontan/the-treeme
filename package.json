@@ -2,7 +2,7 @@
   "name": "the-treeme",
   "displayName": "The Treeme",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "https://github.com/ijontan/the-treeme"
   },
@@ -23,6 +23,11 @@
         "label": "orange tree",
         "uiTheme": "vs-dark",
         "path": "./themes/orange tree-color-theme.json"
+      },
+      {
+        "label": "apple tree",
+        "uiTheme": "vs-dark",
+        "path": "./themes/apple tree-color-theme.json"
       }
     ]
   }
