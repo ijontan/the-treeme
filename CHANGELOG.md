@@ -4,6 +4,13 @@ All notable changes to the "the-treeme" extension will be documented in this fil
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [0.0.4]
+### added
+- nothing
+### changes
+- changed the "wood" color of cherry blossom in the night
+- fixed issue where some character have low visibility in cherry blossom
+
 ## [0.0.3]
 ### Added
 - added "charry blossom in the night" dark theme
