@@ -43,6 +43,11 @@
         "label": "cherry blossom in the night",
         "uiTheme": "vs-dark",
         "path": "./themes/cherry blossom in the night-color-theme.json"
+      },
+      {
+        "label": "LH cherry blossom in the night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LH cherry blossom in the night-color-theme.json"
       }
     ]
   }
