@@ -1,8 +1,8 @@
 {
-  "name": "the-treeme",
-  "displayName": "The Treeme",
+  "name": "the-treeme-lh",
+  "displayName": "The Treeme(LH)",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "url": "https://github.com/ijontan/the-treeme"
   },
@@ -45,9 +45,9 @@
         "path": "./themes/cherry blossom in the night-color-theme.json"
       },
       {
-        "label": "LH cherry blossom in the night",
+        "label": "cherry blossom ft blue sky",
         "uiTheme": "vs-dark",
-        "path": "./themes/LH cherry blossom in the night-color-theme.json"
+        "path": "./themes/cherry blossom ft blue sky-color-theme.json"
       }
     ]
   }
